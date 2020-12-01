@@ -1,5 +1,6 @@
 # css-CardTricks  
 
+![](cardTricks.gif)  
 A little front end animation for displaying cards, probably to be used in a larger project soon.
 
 ## What I learned:  
